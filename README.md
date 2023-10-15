@@ -1,2 +1,4 @@
 # SDL2-Minesweeper
-Pong game written using SDL2 library.
+Minesweeper game written using SDL2 library. Style a lá spaghetti carbonara.
+
+Compiled with provided Makefile.
