@@ -2,6 +2,7 @@
 #include "Button.hpp"
 
 #include <iostream>
+#include <memory>
 
 Button::Button(Game* game, TTF_Font* font, const std::string& text, int x, int y) : 
 	game_(game), 
